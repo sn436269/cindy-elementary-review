@@ -1,0 +1,32 @@
+{
+  "revision": "2026-10-21-subsections-endfield",
+  "sections": 41,
+  "questions": 1230,
+  "legacyIdsPreserved": 600,
+  "legacyQuestionContentUnchanged": true,
+  "everySectionHas30Questions": true,
+  "subjects": {
+    "chinese": {
+      "sections": 8,
+      "questions": 240
+    },
+    "math": {
+      "sections": 15,
+      "questions": 450
+    },
+    "science": {
+      "sections": 6,
+      "questions": 180
+    },
+    "english": {
+      "sections": 6,
+      "questions": 180
+    },
+    "social": {
+      "sections": 6,
+      "questions": 180
+    }
+  },
+  "scoringAndDeduplication": "passed",
+  "storageSchema": "unchanged"
+}

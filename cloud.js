@@ -21,10 +21,12 @@ export async function connectCloud(config, callbacks) {
         const [existing,wallet]=await Promise.all([transaction.get(eventRef),transaction.get(walletRef)]);
         if(existing.exists())return;
         const amount=wallet.exists()?wallet.data().balance:0;
-        const delta=event.type==='attempt'?window.StudyCore.award(event.payload.correct,event.payload.items.length):event.type==='redeem'?-event.payload.amount:0;
+        const reviewed=wallet.exists()?(wallet.data().reviewCount||0):0;
+        const nextReviewed=reviewed+(window.StudyCore.isReview(event)?event.payload.items.length:0);
+        const delta=window.StudyCore.isReview(event)?Math.floor(nextReviewed/10)-Math.floor(reviewed/10):event.type==='attempt'?window.StudyCore.award(event.payload.correct,event.payload.items.length):event.type==='redeem'?-event.payload.amount:0;
         if(amount+delta<0)throw Error('雲端點數不足，請先同步最新紀錄。');
         transaction.set(eventRef,event);
-        if(delta!==0||!wallet.exists())transaction.set(walletRef,{balance:amount+delta,updatedAt:dbSdk.serverTimestamp()});
+        if(delta!==0||nextReviewed!==reviewed||!wallet.exists())transaction.set(walletRef,{balance:amount+delta,reviewCount:nextReviewed,updatedAt:dbSdk.serverTimestamp()});
       });
     }
   };

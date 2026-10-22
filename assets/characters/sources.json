@@ -1,0 +1,94 @@
+{
+  "checked": "2026-10-21",
+  "officialRoster": "https://endfield.gryphline.com/zh-tw/operator",
+  "characters": [
+    {
+      "id": "perlica",
+      "name": "佩麗卡",
+      "english": "Perlica",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/prelica.d0bbdb53.png",
+      "local": "assets/characters/perlica.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "chen",
+      "name": "陳千語",
+      "english": "Chen Qianyu",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/chen.b0afd1ba.png",
+      "local": "assets/characters/chen.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "ardelia",
+      "name": "艾爾黛拉",
+      "english": "Ardelia",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/ardelia.565c75af.png",
+      "local": "assets/characters/ardelia.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "wulfgard",
+      "name": "狼衛",
+      "english": "Wulfgard",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/wulfgard.609a252f.png",
+      "local": "assets/characters/wulfgard.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "gilberta",
+      "name": "潔爾佩塔",
+      "english": "Gilberta",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/gilberta.724f3503.png",
+      "local": "assets/characters/gilberta.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "laevatain",
+      "name": "萊萬汀",
+      "english": "Laevatain",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/laevatain.edd103d4.png",
+      "local": "assets/characters/laevatain.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "lifeng",
+      "name": "黎風",
+      "english": "Lifeng",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/lifeng.ef41bc3a.png",
+      "local": "assets/characters/lifeng.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "dapan",
+      "name": "大潘",
+      "english": "Da Pan",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/dapan.7cdb6a4e.png",
+      "local": "assets/characters/dapan.webp",
+      "size": [
+        303,
+        386
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+/* Official Argent Flow illustration, placed clear of the learning controls. */
+.hero-endfield{background:radial-gradient(ellipse at 77% 35%,#f6f2d8 0%,#e5e8df 45%,#f4f5f1 80%)}
+.hero-art{inset:auto;left:auto;right:-7%;top:-80px;bottom:auto;width:80%;height:auto;max-width:none;object-fit:contain;object-position:top center}
+.hero-shade{background:linear-gradient(90deg,#f4f5f1 0%,#f4f5f1f5 27%,#f4f5f194 46%,#f4f5f100 66%)}
+.hero-coordinate{color:#3e492f}
+.hero-character-label{position:absolute;right:27px;top:52px;padding:7px 11px;border-left:3px solid #d8ca6a;background:#f4f5f1dc;font:11px var(--mono);letter-spacing:1px;color:#273126}
+@media(min-width:1400px){.hero-art{width:78%;top:-100px}}
+@media(max-width:1100px){.hero-art{width:105%;right:-27%;top:-15px}.hero-character-label{top:43px;right:15px;font-size:9px}}
+@media(max-width:760px){.hero-art{width:190%;right:-80%;top:8px}.hero-shade{background:linear-gradient(90deg,#f4f5f1f5 0%,#f4f5f1e8 25%,#f4f5f1aa 49%,#f4f5f13b 100%)}.hero-character-label{right:12px;top:9px;font-size:8px;padding:4px 7px}.hero-endfield .eyebrow{padding-top:10px}}

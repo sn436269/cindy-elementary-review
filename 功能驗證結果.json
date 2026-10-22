@@ -1,0 +1,12 @@
+{
+  "revision": "2026-10-21-learning-planner",
+  "companions": 8,
+  "shuffleCyclesVerified": 2000,
+  "reloadPersistence": "passed",
+  "reviewRolloverAndIndependentPoints": "passed",
+  "legacyPointsPreserved": "passed",
+  "duplicateSubmission": "passed",
+  "cloudTransactionSimulation": "passed",
+  "midtermOnly": "passed",
+  "calendarDateCheck": "passed"
+}

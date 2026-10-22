@@ -16,7 +16,8 @@ service cloud.firestore {
       allow create, update: if request.auth != null && request.auth.uid == uid
         && request.resource.data.balance is int
         && request.resource.data.balance >= 0
-        && request.resource.data.keys().hasOnly(['balance', 'updatedAt']);
+        && (!('reviewCount' in request.resource.data) || (request.resource.data.reviewCount is int && request.resource.data.reviewCount >= 0))
+        && request.resource.data.keys().hasOnly(['balance', 'reviewCount', 'updatedAt']);
       allow delete: if false;
     }
   }

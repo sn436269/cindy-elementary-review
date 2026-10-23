@@ -1,0 +1,10 @@
+{
+  "companions": 30,
+  "legacySeenAndPauseMigration": "passed",
+  "roundCompletionAfterUpgrade": "passed",
+  "sharedDeckPersistence": "passed",
+  "letterAndChallengePersistence": "passed",
+  "invalidStorageRecovery": "passed",
+  "uniqueNamesAndMiniChallenges": "passed",
+  "portraitsPresent": 30
+}

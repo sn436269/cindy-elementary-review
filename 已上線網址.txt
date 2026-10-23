@@ -1,0 +1,14 @@
+Cindy 學習基地｜正式網址
+https://sn436269.github.io/cindy-elementary-review/
+
+期中總複習
+https://sn436269.github.io/cindy-elementary-review/#exam
+
+2026-10-22 更新：明河背景、8 位夥伴輪替、期中總複習、錯題獨立集點與每日提醒。
+本機完整網站：D:\Users\Sona_Wang\Desktop\教\www
+發布包：D:\Users\Sona_Wang\Desktop\教\明湖國小複習站-GitHub發布包.zip
+
+提醒檔下載後請匯入行事曆。跨裝置同步仍需 Firebase 設定，詳見 SETUP.md。
+
+夥伴小驚喜（2026-10-23）：https://sn436269.github.io/cindy-elementary-review/#surprise
+30 位夥伴輪替、鼓勵來信、小挑戰與收藏卡。

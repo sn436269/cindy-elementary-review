@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-21",
+  "checked": "2026-10-22",
   "officialRoster": "https://endfield.gryphline.com/zh-tw/operator",
   "characters": [
     {
@@ -85,6 +85,248 @@
       "english": "Da Pan",
       "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/dapan.7cdb6a4e.png",
       "local": "assets/characters/dapan.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "purrche",
+      "name": "噗切娜",
+      "english": "Purrchena",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/purrche.d6659019.png",
+      "local": "assets/characters/purrche.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "lizhiyan",
+      "name": "訣",
+      "english": "Arcane",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/lizhiyan.7ada7b83.png",
+      "local": "assets/characters/lizhiyan.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "liino",
+      "name": "梨諾",
+      "english": "Liino",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/liino.8d027d2a.png",
+      "local": "assets/characters/liino.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "mifu",
+      "name": "弭弗",
+      "english": "Mi Fu",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/mifu.e1d79970.png",
+      "local": "assets/characters/mifu.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "camille",
+      "name": "卡繆",
+      "english": "Camille",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/camille.a26b2443.png",
+      "local": "assets/characters/camille.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "zhuangfy",
+      "name": "莊方宜",
+      "english": "Zhuang Fangyi",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/zhuangfy.50a608b8.png",
+      "local": "assets/characters/zhuangfy.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "tangtang",
+      "name": "湯湯",
+      "english": "Tangtang",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/tangtang.b5cd99e9.png",
+      "local": "assets/characters/tangtang.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "rossi",
+      "name": "洛西",
+      "english": "Rossi",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/rossi.c58b721b.png",
+      "local": "assets/characters/rossi.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "yvonne",
+      "name": "伊馮",
+      "english": "Yvonne",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/yvonne.9695c304.png",
+      "local": "assets/characters/yvonne.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "ember",
+      "name": "餘燼",
+      "english": "Ember",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/ember.6391acf9.png",
+      "local": "assets/characters/ember.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "lastrite",
+      "name": "別禮",
+      "english": "Last Rite",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/lastrite.3860f541.png",
+      "local": "assets/characters/lastrite.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "pogranichnik",
+      "name": "駿衛",
+      "english": "Pogranichnik",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/pogranichnik.80f2ddbb.png",
+      "local": "assets/characters/pogranichnik.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "alesh",
+      "name": "阿列什",
+      "english": "Alesh",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/alesh.d7f457d2.png",
+      "local": "assets/characters/alesh.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "arclight",
+      "name": "弧光",
+      "english": "Arclight",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/arclight.e31580d7.png",
+      "local": "assets/characters/arclight.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "avywenna",
+      "name": "艾維文娜",
+      "english": "Avywenna",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/avywenna.2a592659.png",
+      "local": "assets/characters/avywenna.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "snowshine",
+      "name": "晝雪",
+      "english": "Snowshine",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/snowshine.bb2c0bdc.png",
+      "local": "assets/characters/snowshine.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "xaihi",
+      "name": "賽希",
+      "english": "Xaihi",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/xaihi.9ba3eb36.png",
+      "local": "assets/characters/xaihi.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "akekuri",
+      "name": "秋栗",
+      "english": "Akekuri",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/akekuri.3603d013.png",
+      "local": "assets/characters/akekuri.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "antal",
+      "name": "安塔爾",
+      "english": "Antal",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/antal.763c87e4.png",
+      "local": "assets/characters/antal.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "catcher",
+      "name": "卡契爾",
+      "english": "Catcher",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/catcher.bc6bcfaa.png",
+      "local": "assets/characters/catcher.webp",
+      "size": [
+        281,
+        386
+      ]
+    },
+    {
+      "id": "estella",
+      "name": "埃特拉",
+      "english": "Estella",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/estella.38c423af.png",
+      "local": "assets/characters/estella.webp",
+      "size": [
+        303,
+        386
+      ]
+    },
+    {
+      "id": "fluorite",
+      "name": "螢石",
+      "english": "Fluorite",
+      "source": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/fluorite.5a8add29.png",
+      "local": "assets/characters/fluorite.webp",
       "size": [
         303,
         386
